@@ -1,15 +1,14 @@
 # Weathery
 
----
 
-##### Openweathermap API:
+<img src='https://projects-preview.s3.eu-west-3.amazonaws.com/weathery+mbdev.webp' />
 
-[link](https://openweathermap.org/api/one-call-3#data)
 
-##### Search city name API:
+##### Openweathermap API: [link](https://openweathermap.org/api/one-call-3#data)
 
-[link](https://rapidapi.com/wirefreethought/api/geodb-cities/)
+##### Search city name API: [link](https://rapidapi.com/wirefreethought/api/geodb-cities/)
 
----
 
-By : [MbDev](https://thembdev.com)
+
+
+
